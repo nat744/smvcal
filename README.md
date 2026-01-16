@@ -41,7 +41,7 @@ This is a client-side application. No build step or server is required.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/mate-selection-model.git](https://github.com/yourusername/mate-selection-model.git)
+    git clone [https://github.com/nat744/smvcal.git](https://github.com/nat744/smvcal.git)
     ```
 2.  **Run:**
     Simply open `smv_attraction_model.html` in any modern web browser.
